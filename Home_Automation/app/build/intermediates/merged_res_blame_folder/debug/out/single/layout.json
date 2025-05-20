@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Home_Automation\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_change_password.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Home_Automation\\app\\src\\main\\res\\layout\\activity_change_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Home_Automation\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_view_visitor_log.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Home_Automation\\app\\src\\main\\res\\layout\\activity_view_visitor_log.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Home_Automation\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_dashboard.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Home_Automation\\app\\src\\main\\res\\layout\\fragment_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Home_Automation\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Home_Automation\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Home_Automation\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_home.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Home_Automation\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Home_Automation\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\provider_paths.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Home_Automation\\app\\src\\main\\res\\layout\\provider_paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Home_Automation\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_user_registration.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Home_Automation\\app\\src\\main\\res\\layout\\activity_user_registration.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Home_Automation\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_device_control.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Home_Automation\\app\\src\\main\\res\\layout\\activity_device_control.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Home_Automation\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_view_familiar_person.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Home_Automation\\app\\src\\main\\res\\layout\\activity_view_familiar_person.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Home_Automation\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Home_Automation\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Home_Automation\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Home_Automation\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Home_Automation\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_add_familiar_person.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Home_Automation\\app\\src\\main\\res\\layout\\activity_add_familiar_person.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Home_Automation\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_notifications.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Home_Automation\\app\\src\\main\\res\\layout\\fragment_notifications.xml"
+    }
+]
