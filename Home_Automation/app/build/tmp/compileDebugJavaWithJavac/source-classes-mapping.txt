@@ -1,0 +1,73 @@
+com/example/home_automation/BuildConfig.java
+ com.example.home_automation.BuildConfig
+com/example/home_automation/FileUtils.java
+ com.example.home_automation.FileUtils
+com/example/home_automation/ui/dashboard/DashboardFragment.java
+ com.example.home_automation.ui.dashboard.DashboardFragment
+ com.example.home_automation.ui.dashboard.DashboardFragment$1
+com/example/home_automation/ui/home/HomeViewModel.java
+ com.example.home_automation.ui.home.HomeViewModel
+com/example/home_automation/ui/home/HomeFragment.java
+ com.example.home_automation.ui.home.HomeFragment
+ com.example.home_automation.ui.home.HomeFragment$1
+com/example/home_automation/ui/dashboard/DashboardViewModel.java
+ com.example.home_automation.ui.dashboard.DashboardViewModel
+com/example/home_automation/ui/notifications/NotificationsViewModel.java
+ com.example.home_automation.ui.notifications.NotificationsViewModel
+com/example/home_automation/ui/notifications/NotificationsFragment.java
+ com.example.home_automation.ui.notifications.NotificationsFragment
+ com.example.home_automation.ui.notifications.NotificationsFragment$1
+com/example/home_automation/databinding/FragmentNotificationsBinding.java
+ com.example.home_automation.databinding.FragmentNotificationsBinding
+com/example/home_automation/databinding/FragmentDashboardBinding.java
+ com.example.home_automation.databinding.FragmentDashboardBinding
+com/example/home_automation/databinding/ProviderPathsBinding.java
+ com.example.home_automation.databinding.ProviderPathsBinding
+com/example/home_automation/databinding/ActivityViewVisitorLogBinding.java
+ com.example.home_automation.databinding.ActivityViewVisitorLogBinding
+com/example/home_automation/databinding/ActivityAddFamiliarPersonBinding.java
+ com.example.home_automation.databinding.ActivityAddFamiliarPersonBinding
+com/example/home_automation/databinding/ActivityHomeBinding.java
+ com.example.home_automation.databinding.ActivityHomeBinding
+com/example/home_automation/Change_password.java
+ com.example.home_automation.Change_password
+ com.example.home_automation.Change_password$1
+ com.example.home_automation.Change_password$2
+ com.example.home_automation.Change_password$3
+com/example/home_automation/databinding/ActivityChangePasswordBinding.java
+ com.example.home_automation.databinding.ActivityChangePasswordBinding
+com/example/home_automation/databinding/ActivityMainBinding.java
+ com.example.home_automation.databinding.ActivityMainBinding
+com/example/home_automation/databinding/ActivityDeviceControlBinding.java
+ com.example.home_automation.databinding.ActivityDeviceControlBinding
+com/example/home_automation/Add_familiar_person.java
+ com.example.home_automation.Add_familiar_person
+com/example/home_automation/Home.java
+ com.example.home_automation.Home
+com/example/home_automation/databinding/FragmentHomeBinding.java
+ com.example.home_automation.databinding.FragmentHomeBinding
+com/example/home_automation/MainActivity.java
+ com.example.home_automation.MainActivity
+com/example/home_automation/View_familiar_person.java
+ com.example.home_automation.View_familiar_person
+ com.example.home_automation.View_familiar_person$1
+com/example/home_automation/databinding/ActivityLoginBinding.java
+ com.example.home_automation.databinding.ActivityLoginBinding
+com/example/home_automation/Device_control.java
+ com.example.home_automation.Device_control
+com/example/home_automation/databinding/ActivityUserRegistrationBinding.java
+ com.example.home_automation.databinding.ActivityUserRegistrationBinding
+com/example/home_automation/View_visitor_log.java
+ com.example.home_automation.View_visitor_log
+com/example/home_automation/databinding/ActivityViewFamiliarPersonBinding.java
+ com.example.home_automation.databinding.ActivityViewFamiliarPersonBinding
+com/example/home_automation/user_registration.java
+ com.example.home_automation.user_registration
+ com.example.home_automation.user_registration$1
+ com.example.home_automation.user_registration$2
+ com.example.home_automation.user_registration$3
+com/example/home_automation/Login.java
+ com.example.home_automation.Login
+ com.example.home_automation.Login$1
+ com.example.home_automation.Login$2
+ com.example.home_automation.Login$3
